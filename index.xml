@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rumor</title>
+    <link>https://webrpg.dev/</link>
+    <description>Recent content on Rumor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_US</language>
+    <lastBuildDate>Sun, 04 Nov 2018 21:52:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://webrpg.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting Up This Blog</title>
+      <link>https://webrpg.dev/posts/post01/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://webrpg.dev/posts/post01/</guid>
+      <description>I have set this site up. I will be posting updates to Rumor here rather than in the application. I plan to add some other articles in the future discussing the way I implemented some things. There will be a lot more to come!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://webrpg.dev/contact/</link>
+      <pubDate>Sun, 04 Nov 2018 21:52:00 +0100</pubDate>
+      
+      <guid>https://webrpg.dev/contact/</guid>
+      <description> To contact me, reach out to me on Github:   rumor-web   </description>
+    </item>
+    
+    <item>
+      <title>Feedback</title>
+      <link>https://webrpg.dev/feedback/</link>
+      <pubDate>Sun, 04 Nov 2018 21:52:00 +0100</pubDate>
+      
+      <guid>https://webrpg.dev/feedback/</guid>
+      <description>  Feel free to add some senseful content here. </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://webrpg.dev/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webrpg.dev/demo/</guid>
+      <description>Press the button below to launch the demo for Rumor.
+Run Demo    </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://webrpg.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webrpg.dev/about/</guid>
+      <description> About this site.  This is some HTML content, just as example. </description>
+    </item>
+    
+  </channel>
+</rss>

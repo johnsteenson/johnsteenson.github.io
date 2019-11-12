@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>update on Rumor</title>
+    <link>https://webrpg.dev/tags/update/</link>
+    <description>Recent content in update on Rumor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_US</language>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://webrpg.dev/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting Up This Blog</title>
+      <link>https://webrpg.dev/posts/post01/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://webrpg.dev/posts/post01/</guid>
+      <description>I have set this site up. I will be posting updates to Rumor here rather than in the application. I plan to add some other articles in the future discussing the way I implemented some things. There will be a lot more to come!</description>
+    </item>
+    
+  </channel>
+</rss>
